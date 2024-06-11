@@ -1,0 +1,28 @@
+@import "_navbar.scss";
+@import "_hero.scss";
+@import "_about.scss";
+@import "_table.scss";
+@import "_bar menu.scss";
+@import "_special.scss";
+@import "_chef's word.scss";
+@import "_customers.scss";
+@import "_video.scss";
+@import "_laurels.scss";
+@import "_updates.scss";
+@import "_instagrm.scss";
+@import "_footer.scss";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+body  {
+    background-color: #0c0c0c;
+}

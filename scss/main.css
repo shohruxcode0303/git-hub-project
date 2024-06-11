@@ -1,0 +1,216 @@
+.stn {
+  width: 100%;
+  height: 500px;
+  background-color: #0C0C0C;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 50px;
+}
+.stn .stn__h2 {
+  font-size: 25px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+}
+.stn .stn__h1 {
+  font-size: 50px;
+  font-family: "Cormorant Upright";
+  color: #DCCA87;
+  text-align: center;
+}
+.stn .stn__pr {
+  font-size: 16x;
+  font-family: "Cormorant Upright";
+  color: white;
+  text-align: center;
+}
+.stn .stn__box {
+  width: 500px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.stn .stn__box .stn__box--btn {
+  width: 150px;
+  height: 40px;
+  font-size: 14px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #DCCA87;
+  border: none;
+}
+.stn .stn__box .stn__box--btn-second {
+  width: 150px;
+  height: 40px;
+  font-size: 14px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  background-color: transparent;
+  border: 1px solid #DCCA87;
+}
+
+.stn-second {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.stn-second .stn-second__img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.stn .stn-third__card {
+  width: 70%;
+  height: 80%;
+  background-color: #0C0C0C;
+  border: 1px solid #2c2c2c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+.stn .stn-third__card .stn-third__card--box {
+  width: 80%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.stn .stn-third__card .stn-third__card--box .stn-third__card--box__input {
+  width: 200px;
+  height: 30px;
+  background: transparent;
+  border: 1px solid #DCCA87;
+}
+.stn .stn-third__card .stn-third__card--btn {
+  width: 150px;
+  height: 40px;
+  font-size: 14px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #DCCA87;
+  border: none;
+}
+
+.stn {
+  width: 100%;
+  height: 500px;
+  background-color: #0C0C0C;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 50px;
+}
+.stn .stn__h2 {
+  font-size: 25px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+}
+.stn .stn__h1 {
+  font-size: 50px;
+  font-family: "Cormorant Upright";
+  color: #DCCA87;
+  text-align: center;
+}
+.stn .stn__pr {
+  font-size: 16x;
+  font-family: "Cormorant Upright";
+  color: white;
+  text-align: center;
+}
+.stn .stn__box {
+  width: 500px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.stn .stn__box .stn__box--btn {
+  width: 150px;
+  height: 40px;
+  font-size: 14px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #DCCA87;
+  border: none;
+}
+.stn .stn__box .stn__box--btn-second {
+  width: 150px;
+  height: 40px;
+  font-size: 14px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  background-color: transparent;
+  border: 1px solid #DCCA87;
+}
+
+.stn-second {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.stn-second .stn-second__img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.stn .stn-third__card {
+  width: 70%;
+  height: 80%;
+  background-color: #0C0C0C;
+  border: 1px solid #2c2c2c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+.stn .stn-third__card .stn-third__card--box {
+  width: 80%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.stn .stn-third__card .stn-third__card--box .stn-third__card--box__input {
+  width: 200px;
+  height: 30px;
+  background: transparent;
+  border: 1px solid #DCCA87;
+}
+.stn .stn-third__card .stn-third__card--btn {
+  width: 150px;
+  height: 40px;
+  font-size: 14px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #DCCA87;
+  border: none;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #0c0c0c;
+}/*# sourceMappingURL=main.css.map */
